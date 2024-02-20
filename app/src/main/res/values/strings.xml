@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FontIcon</string>
+    <string name="fa_energy">\uf0e7</string>
+    <string name="fa_apple">\uf179</string>
+    <string name="fa_cc_visa">\uf1f0</string>
+</resources>
